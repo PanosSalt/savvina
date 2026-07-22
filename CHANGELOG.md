@@ -2,6 +2,20 @@
 
 <!-- version list -->
 
+## v1.0.3 (2026-07-22)
+
+### Bug Fixes
+
+- **deps**: Patch axios, brace-expansion, and json-repair vulnerabilities
+  ([#8](https://github.com/savvina-ai/savvina/pull/8),
+  [`8606d51`](https://github.com/savvina-ai/savvina/commit/8606d51724e4310a3e4b0fa54d601869fecd2ece))
+
+### Documentation
+
+- Polish README — tagline, badges
+  ([`e680bc2`](https://github.com/savvina-ai/savvina/commit/e680bc2ce9595adc4e9d741ffb7fcb85df5e4030))
+
+
 ## v1.0.2 (2026-06-16)
 
 ### Bug Fixes
