@@ -2,6 +2,15 @@
 
 <!-- version list -->
 
+## v1.0.4 (2026-07-22)
+
+### Bug Fixes
+
+- Unblock first-run setup and derive DATABASE_URL from APP_DB_PASSWORD
+  ([#9](https://github.com/savvina-ai/savvina/pull/9),
+  [`7020ca9`](https://github.com/savvina-ai/savvina/commit/7020ca95061f752abfda889e690de478c31401e3))
+
+
 ## v1.0.3 (2026-07-22)
 
 ### Bug Fixes
