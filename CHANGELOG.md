@@ -2,6 +2,42 @@
 
 <!-- version list -->
 
+## v1.0.5 (2026-08-12)
+
+### Bug Fixes
+
+- Make ChartView containerRef optional and remove nullRef workaround
+  ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+- Report the real version, and stop the frontend suite losing timing races
+  ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+- **deps**: Align Node version across compose, drop no-op esbuild dep, refresh architecture docs
+  ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+- **deps**: Patch cryptography, react-router, and js-yaml vulnerabilities
+  ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+### Chores
+
+- Fix cla assistant action ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+### Documentation
+
+- Correct two inaccurate claims in the Docker infrastructure guide
+  ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+- Document every endpoint, TRUSTED_PROXIES, and the frontend test suite
+  ([#11](https://github.com/savvina-ai/savvina/pull/11),
+  [`63283fa`](https://github.com/savvina-ai/savvina/commit/63283fa8b06c93313c16ae793c46eb7791de310c))
+
+
 ## v1.0.4 (2026-07-22)
 
 ### Bug Fixes
